@@ -1,0 +1,12 @@
+Number:57
+
+Summary:Check item of menu after switch languag
+Enviroment:
+Chrome,Opera,Firefox
+
+Comments:
+
+Status:
+Chrome - Passed
+Opera - Passed
+Firefox - Faild
